@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jogador>
+    <usuario>
+        <codigo>1</codigo>
+        <nome>Yuri H. T. Q. Kanegae</nome>
+        <email>yurikanegae@gmail.com</email>
+        <senha>123</senha>
+        <pontuacao>10555</pontuacao>
+        <jogos_ganhos>109</jogos_ganhos>
+        <jogos_perdidos>42</jogos_perdidos>
+        <trofeus>Troféu avançado</trofeus>
+    </usuario>
+<usuario><codigo>2</codigo><nome>Teste A</nome><email>testea@gmail.com</email><senha>123</senha><pontuacao>1425</pontuacao><jogos_ganhos>16</jogos_ganhos><jogos_perdidos>1</jogos_perdidos><trofeus>Troféu intermediário</trofeus></usuario><usuario><codigo>3</codigo><nome>Teste B</nome><email>testeb@gmail.com</email><senha>123</senha><pontuacao>1400</pontuacao><jogos_ganhos>15</jogos_ganhos><jogos_perdidos>1</jogos_perdidos><trofeus>Troféu intermediário</trofeus></usuario><usuario><codigo>5</codigo><nome>Teste C</nome><email>testec@gmail.com</email><senha>123</senha><pontuacao>4230</pontuacao><jogos_ganhos>47</jogos_ganhos><jogos_perdidos>7</jogos_perdidos><trofeus>Troféu avançado</trofeus></usuario><usuario><codigo>6</codigo><nome>Rafael</nome><email>rafa@gmail.com</email><senha>777</senha><pontuacao>2205</pontuacao><jogos_ganhos>23</jogos_ganhos><jogos_perdidos>3</jogos_perdidos><trofeus>Troféu avançado</trofeus></usuario><usuario><codigo>7</codigo><nome>Viny</nome><email>viny@gmail.com</email><senha>123</senha><pontuacao>12220</pontuacao><jogos_ganhos>136</jogos_ganhos><jogos_perdidos>28</jogos_perdidos><trofeus>Troféu avançado</trofeus></usuario><usuario><codigo>8</codigo><nome>Cris</nome><email>cristiane@gmail.com</email><senha>123</senha><pontuacao>50</pontuacao><jogos_ganhos>1</jogos_ganhos><jogos_perdidos>1</jogos_perdidos><trofeus>-</trofeus></usuario><usuario><codigo>9</codigo><nome>Amanda</nome><email>amanda@amanda.com</email><senha>amanda</senha><pontuacao>140</pontuacao><jogos_ganhos>3</jogos_ganhos><jogos_perdidos>3</jogos_perdidos><trofeus>-</trofeus></usuario></jogador>
